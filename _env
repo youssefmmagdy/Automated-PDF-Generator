@@ -1,0 +1,4 @@
+DEBUG=True
+CLIENT_ID=client-id
+CLIENT_SECRET=client-secret
+BASE_API_URL=https://api.apaleo.com/

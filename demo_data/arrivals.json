@@ -1,0 +1,102 @@
+[
+    {
+        "firstName": "\u00cbrik",
+        "departure": "2023-12-23T10:00:00+01:00",
+        "lastName": "Bergstr\u00f6m",
+        "arrival": "2023-12-20T20:00:00+01:00",
+        "id": "EFGHIJKL-8",
+        "breakfast": "false",
+        "room": "775",
+        "corporateCode": ""
+    },
+    {
+        "arrival": "2023-12-17T17:00:00+01:00",
+        "firstName": "Gabriela",
+        "room": "",
+        "corporateCode": "CORP789",
+        "lastName": "Alvarez",
+        "breakfast": "",
+        "id": "GHIJKLMN-5",
+        "departure": "2023-12-19T10:00:00+01:00"
+    },
+    {
+        "id": "UVWXYZAB-10",
+        "lastName": "Fitzgerald-Washington-Jefferson",
+        "arrival": "2023-12-22T11:00:00+01:00",
+        "room": "",
+        "departure": "2023-12-25T09:00:00+01:00",
+        "breakfast": "false",
+        "firstName": "Aarav",
+        "corporateCode": ""
+    },
+    {
+        "lastName": "Nakamura",
+        "id": "MNOPQRST-9",
+        "breakfast": "true",
+        "room": "346",
+        "firstName": "Yuki",
+        "arrival": "2023-12-21T12:00:00+01:00",
+        "departure": "2023-12-24T11:00:00+01:00",
+        "corporateCode": "CORP202"
+    },
+    {
+        "arrival": "2023-12-19T14:00:00+01:00",
+        "room": "",
+        "departure": "2023-12-22T12:00:00+01:00",
+        "lastName": "McDonald",
+        "breakfast": "true",
+        "firstName": "Sarah-Jane Elizabeth Victoria",
+        "corporateCode": "CORP101",
+        "id": "WXYZABCD-7"
+    },
+    {
+        "id": "OPQRSTUV-6",
+        "arrival": "2023-12-18T18:00:00+01:00",
+        "corporateCode": "",
+        "room": "",
+        "breakfast": "false",
+        "lastName": "",
+        "firstName": "J\u00f6hn",
+        "departure": "2023-12-20T11:00:00+01:00"
+    },
+    {
+        "room": "",
+        "corporateCode": "",
+        "arrival": "2023-12-20T15:00:00+01:00",
+        "breakfast": "false",
+        "departure": "",
+        "lastName": "Li",
+        "id": "YZABCDEF-4",
+        "firstName": "Ming"
+    },
+    {
+        "room": "S415",
+        "lastName": "O'Neill",
+        "corporateCode": "CORP123",
+        "id": "IJKLMNOP-2",
+        "breakfast": "false",
+        "arrival": "2023-12-19T16:00:00+01:00",
+        "departure": "2023-12-22T10:00:00+01:00",
+        "firstName": ""
+    },
+    {
+        "firstName": "Jülian Alexander Maximilian",
+        "id": "ABCDEFGH-1",
+        "departure": "2023-12-20T12:00:00+01:00",
+        "corporateCode": "",
+        "room": "973",
+        "lastName": "Hörstensen",
+        "arrival": "2023-12-18T14:00:00+01:00",
+        "breakfast": "true"
+    },
+    {
+        "corporateCode": "CORP456",
+        "room": "Y127",
+        "departure": "2023-12-21T11:00:00+01:00",
+        "firstName": "Chris",
+        "id": "QRSTUVWX-3",
+        "arrival": "",
+        "breakfast": "true",
+        "lastName": "Schmidt-Johnson"
+    }
+]

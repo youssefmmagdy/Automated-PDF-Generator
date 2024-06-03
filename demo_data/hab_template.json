@@ -1,0 +1,18 @@
+{
+    "fields": {
+        "id":            {"x": -1, "y":  0, "type": "text"},
+        "full_name":     {"x": 90, "y": 37, "type": "name", "key": false},
+        "corporateCode": {"x": -1, "y":  0, "type": "text"},
+        "arrival":       {"x": 90, "y": 63, "type": "date"},
+        "departure":     {"x": 90, "y": 76, "type": "date"},
+        "breakfast":     {"x": 112, "y": 90, "type": "checkbox"},
+        "room":          {"x": 90, "y": 50, "type": "text"}
+    },
+    "date_format": "%d.%m.%Y",
+    "orientation": "L",
+    "unit": "mm",
+    "format": [105,148.5],
+    "font_size": 12,
+    "font": "Arial",
+    "full_name": "{last_name}, {first_name}"
+}
