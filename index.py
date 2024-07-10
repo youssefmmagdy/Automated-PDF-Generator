@@ -1,9 +1,7 @@
 import pandas as pd
-import numpy as np
+
 from fpdf import FPDF
-import matplotlib as mpl
-import matplotlib.pyplot as plt
-from matplotlib.ticker import ScalarFormatter
+
 
 
 
@@ -403,8 +401,8 @@ def Create_PDF(firstName,lastName,roomNumber,arrival,departure,breakfast,id,corp
     # pdf.cell(10,0,'Yous')
 
     
-    pdf.output(nameFile+'.pdf')
+    pdf.output('./pdfs/'+nameFile+'.pdf')
 
-data = pd.read_excel('book.xlsx')
+data = pd.read_excel('Book.xlsx')
 for i in range(len(data)):
     Create_PDF(data.iloc[i,0],data.iloc[i,1],str(data.iloc[i,2]),str(data.iloc[i,3]),str(data.iloc[i,4]),str(data.iloc[i,5]),str(data.iloc[i,6]),str(data.iloc[i,7]))
